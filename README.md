@@ -3,7 +3,7 @@
 # General Rules
 
 - Player starts with 100 chips
-- Allowable bets are increments of 10 and the total amount the player has
+- Allowable bets are increments of 10 up to the total amount the player has
 - Allowable actions for the player:
 - (H)it
   - player is dealt one additional card
